@@ -5,7 +5,7 @@ import logging
 import math
 from datetime import timedelta
 from unittest.mock import MagicMock
-
+ 
 import numpy as np
 import pytest
 from pandas import DataFrame
